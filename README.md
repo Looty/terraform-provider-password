@@ -10,3 +10,6 @@ Terraform provider for Password
     tf init
     tf apply --auto-approve
     ```
+
+## Demo
+![alt text](demo.PNG)
